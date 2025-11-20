@@ -78,7 +78,6 @@ jobs:
           --unicode-escape-sequence true \
           --self-defending true \
           --debug-protection true \
-          --debug-protection-interval true \
           --disable-console-output true \
           --numbers-to-expressions true \
           --simplify true \
